@@ -1,0 +1,62 @@
+7:30:55 AM: Executing ':net.rodald.Main.main()'…
+
+Starting Gradle Daemon...
+Gradle Daemon started in 5 s 530 ms
+> Task :compileJava UP-TO-DATE
+> Task :processResources NO-SOURCE
+> Task :classes UP-TO-DATE
+
+> Task :net.rodald.Main.main()
+Term '\bita quod\b' appears in 158 out of 383 paragraphs
+Weight for '\bita quod\b': 0.8854399561536792
+Term '\bquia\b' appears in 129 out of 383 paragraphs
+Weight for '\bquia\b': 1.088222584818974
+Term '\but\b\s+(?:\w+\s+){0,3}non\s+\w+' appears in 4 out of 383 paragraphs
+Weight for '\but\b\s+(?:\w+\s+){0,3}non\s+\w+': 4.561740628060756
+Term '\bdicitur\b' appears in 15 out of 383 paragraphs
+Weight for '\bdicitur\b': 3.239984788078436
+Term '\bsi\b' appears in 184 out of 383 paragraphs
+Weight for '\bsi\b': 0.7330992315716602
+Term '\banima' appears in 67 out of 383 paragraphs
+Weight for '\banima': 1.74334236978968
+Term '\b(esurie)\w*\b' appears in 3 out of 383 paragraphs
+Weight for '\b(esurie)\w*\b': 4.8494227005125365
+Term '\b(siti)\w*\b' appears in 7 out of 383 paragraphs
+Weight for '\b(siti)\w*\b': 4.002124840125333
+Paragraph 256 Chance: 1.55%
+De inflatione. Nam cum in hominibus istis sanguis fugatur et flegma diminuitur, aqua inter cutem et ...
+----------------------
+Paragraph 67 Chance: 1.41%
+De animae infusione. Deinde sicut deus vult et sicut fieri disposuit, venit spiraculum vitae et form...
+----------------------
+Paragraph 168 Chance: 1.32%
+De siti. Cum homo comedit, in comedendo laborat ut mola in molendo, et de labore comestionis homo in...
+----------------------
+Paragraph 187 Chance: 1.13%
+De cruoris differentia. Homo autem, cuius sanguis de vena emissus turbidum colorem <habet> , ut hali...
+----------------------
+Paragraph 261 Chance: 1.06%
+De pediculis. Quidam autem homines sunt gracilia ossa et membra et graciles venas habentes, sed ping...
+----------------------
+Paragraph 182 Chance: 1.04%
+De minutionis diversitate. Nunc autem, ut prae-
+30 dictum est, quod primum de vulnere et de incisio...
+----------------------
+Paragraph 155 Chance: 0.93%
+De fecimditate. Rivulus autem menstrui temporis in
+15 muliere est genitiva viriditas et floriditas ...
+----------------------
+Paragraph 171 Chance: 0.91%
+De potu. Et tunc, sive sanus sive infirmus sit, post dormitionem si sitit, vinum aut cerevisiam biba...
+----------------------
+Paragraph 183 Chance: 0.91%
+Quando minuatur. Qui fortis et sanus atque crassus
+10 in corpore est, ille in tertio mense minuat, ...
+----------------------
+Paragraph 319 Chance: 0.89%
+De oculorum caligine. Sed homo, qui de superfluitate libidinis in oculis caligat, sive masculus sive...
+----------------------
+
+BUILD SUCCESSFUL in 25s
+2 actionable tasks: 1 executed, 1 up-to-date
+7:31:27 AM: Execution finished ':net.rodald.Main.main()'.
